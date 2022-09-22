@@ -15,12 +15,6 @@ body {
     background-color: rgb(0, 0, 0);
 }
 
-#relogio {
-    font-size: 23rem;
-    color: #0044ff;
-    font-family: 'montserrat';
-}
-
 h1 {
     position: fixed;
     top: 1%;
@@ -28,7 +22,16 @@ h1 {
     justify-content: space-around;
     font-size: 3rem;
     color: #0044ff;
-    font-family: 'montserrat';
+    font-family: 'arial';
+}
+
+p#relogio01 {
+    position: fixed;
+    top: 0%;
+    right: 7%;
+    font-size: 21.9rem;
+    color: #0044ff;
+    font-family: 'arial';
 }
 
 
@@ -37,20 +40,20 @@ h1 {
 #relogio2 {
     position: fixed;
     top: 80%;
-    right: 70%;
+    right: 72%;
     font-size: 6rem;
     color: #0044ff;
-    font-family: 'montserrat';
+    font-family: 'arial';
 }
 
 p.fn {
     position: fixed;
     top: 78%;
-    right: 71%;
+    right: 73.5%;
     justify-content: space-around;
     font-size: 1.6rem;
     color: #0044ff;
-    font-family: 'montserrat';
+    font-family: 'arial';
 }
 
 
@@ -59,21 +62,21 @@ p.fn {
 #relogio3 {
     position: fixed;
     top: 80%;
-    right: 35%;
+    right: 40%;
     justify-content: space-around;
     font-size: 6rem;
     color: #0044ff;
-    font-family: 'montserrat';
+    font-family: 'arial';
 }
 
 p.am {
     position: fixed;
     top: 78%;
-    right: 42%;
+    right: 48%;
     justify-content: space-around;
     font-size: 1.6rem;
     color: #0044ff;
-    font-family: 'montserrat';
+    font-family: 'arial';
 }
 
 
@@ -82,29 +85,30 @@ p.am {
 #relogio4 {
     position: fixed;
     top: 80%;
-    right: 8%;
+    right: 7.5%;
     font-size: 6rem;
     color: #0044ff;
-    font-family: 'montserrat';
+    font-family: 'arial';
 }
 
 p.ac {
     position: fixed;
     top: 78%;
-    right: 10%;
+    right: 17%;
     justify-content: space-around;
     font-size: 1.6rem;
     color: #0044ff;
-    font-family: 'montserrat';
+    font-family: 'arial';
 }
 
 
 /*ok teste dia mes e ano*/
 
 section {
-    font-size: 4.6rem;
-    text-align: center;
-    margin: -20px;
+    position: fixed;
+    top: 53%;
+    right: 22%;
+    font-size: 3.2rem;
     color: #0044ff;
-    font-family: 'montserrat';
+    font-family: 'arial';
 }
